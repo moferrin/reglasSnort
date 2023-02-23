@@ -1,0 +1,1 @@
+alert icmp any -> any any (msg:"Hacen prueba de ping ";sid:19910316;rev:1t
